@@ -45,15 +45,15 @@ A collection of my academic, research-oriented and engineering projects.
 
 | No. | Project | Description | Technologies |
 |---|---|---|---|
-| 01 | [Intelligent Image Steganography](https://github.com/YOUR_USERNAME/image-steganography) | Image data hiding using LSB and DCT, with adaptive selection, embedding and extraction analysis. | Python, LSB, DCT |
-| 02 | [RFID-Based Smart Billing Cart](https://github.com/YOUR_USERNAME/rfid-smart-billing-cart) | Raspberry Pi-based shopping cart that identifies products through RFID and generates bills. | Raspberry Pi, Python, RFID |
-| 03 | [Python Audio Equalizer](https://github.com/YOUR_USERNAME/python-audio-equalizer) | GUI-based application for processing uploaded audio files with equalization features. | Python |
-| 04 | [Smart Reverse Vending Machine](https://github.com/YOUR_USERNAME/smart-reverse-vending-machine) | ESP32-based reverse vending machine developed as a multidisciplinary project. | ESP32, Embedded Systems |
-| 05 | [RFID Smart Locking System](https://github.com/YOUR_USERNAME/rfid-smart-lock) | RFID-based electronic access control system using an ESP32, RC522 reader and solenoid lock. | ESP32, RC522, Embedded C |
-| 06 | [Non-Contact PLL-Based Tachometer](https://github.com/YOUR_USERNAME/pll-based-tachometer) | Analog tachometer prototype using XOR logic, a 555 timer and op-amp circuitry. | 555 Timer, XOR, Op-Amps |
-| 07 | [Low-Cost Spectrophotometer](https://github.com/YOUR_USERNAME/low-cost-spectrophotometer) | Arduino-based spectrophotometer prototype integrating optical sensing and data acquisition. | Arduino, Sensors |
-| 08 | [Automatic Room Occupancy Counter](https://github.com/YOUR_USERNAME/automatic-room-occupancy-counter) | Digital logic-based room occupancy counting system developed using ICs. | Digital ICs, Digital Electronics |
-| 09 | [Wireless Communication Analysis](https://github.com/YOUR_USERNAME/rayleigh-rician-fading-analysis) | Performance analysis of wireless communication systems over Rayleigh and Rician fading channels. | MATLAB, Wireless Communication |
+| 01 | [Intelligent Image Steganography](https://github.com/sanjaikanth-p/image-steganography) | Image data hiding using LSB and DCT, with adaptive selection, embedding and extraction analysis. | Python, LSB, DCT |
+| 02 | [RFID-Based Smart Billing Cart](https://github.com/sanjaikanth-p/rfid-smart-billing-cart) | Raspberry Pi-based shopping cart that identifies products through RFID and generates bills. | Raspberry Pi, Python, RFID |
+| 03 | [Python Audio Equalizer](https://github.com/sanjaikanth-p/python-audio-equalizer) | GUI-based application for processing uploaded audio files with equalization features. | Python |
+| 04 | [Smart Reverse Vending Machine](https://github.com/sanjaikanth-p/smart-reverse-vending-machine) | ESP32-based reverse vending machine developed as a multidisciplinary project. | ESP32, Embedded Systems |
+| 05 | [RFID Smart Locking System](https://github.com/sanjaikanth-p/rfid-smart-lock) | RFID-based electronic access control system using an ESP32, RC522 reader and solenoid lock. | ESP32, RC522, Embedded C |
+| 06 | [Non-Contact PLL-Based Tachometer](https://github.com/sanjaikanth-p/pll-based-tachometer) | Analog tachometer prototype using XOR logic, a 555 timer and op-amp circuitry. | 555 Timer, XOR, Op-Amps |
+| 07 | [Low-Cost Spectrophotometer](https://github.com/sanjaikanth-p/low-cost-spectrophotometer) | Arduino-based spectrophotometer prototype integrating optical sensing and data acquisition. | Arduino, Sensors |
+| 08 | [Automatic Room Occupancy Counter](https://github.com/sanjaikanth-p/automatic-room-occupancy-counter) | Digital logic-based room occupancy counting system developed using ICs. | Digital ICs, Digital Electronics |
+| 09 | [Wireless Communication Analysis](https://github.com/sanjaikanth-p/rayleigh-rician-fading-analysis) | Performance analysis of wireless communication systems over Rayleigh and Rician fading channels. | MATLAB, Wireless Communication |
 
 ---
 

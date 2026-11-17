@@ -13,7 +13,7 @@ Electronics & Communication Engineering Undergraduate | VIT Chennai
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an Electronics and Communication Engineering undergraduate at
 **Vellore Institute of Technology (VIT), Chennai (2025–2029)**.
@@ -33,7 +33,7 @@ software development, hardware prototyping and research-oriented projects.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -75,7 +75,7 @@ software development, hardware prototyping and research-oriented projects.
 
 ---
 
-## 🚀 Academic Projects
+## Academic Projects
 
 A collection of engineering projects involving software development,
 embedded systems, electronics, signal processing and research.
@@ -94,7 +94,7 @@ embedded systems, electronics, signal processing and research.
 
 ---
 
-## 🔬 Research & Independent Development
+## Research & Independent Development
 
 ### Image Steganography
 
@@ -122,7 +122,7 @@ video resolution, visual quality and motion smoothness.
 
 ---
 
-## 📜 Certifications & Recognition
+## Certifications & Recognition
 
 | Achievement / Certificate | Organisation | Year |
 |---|---|---|
@@ -133,7 +133,7 @@ Additional certificates will be added as they become available.
 
 ---
 
-## 📸 Project & Event Gallery
+## Project & Event Gallery
 
 Project prototypes, hardware implementations, demonstrations and
 technical event photographs will be showcased here.
@@ -151,7 +151,7 @@ Example:
 
 ---
 
-## 📖 Currently Learning
+## Currently Learning
 
 - Advanced Digital Signal Processing
 - Image Processing and Steganalysis
@@ -161,7 +161,7 @@ Example:
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - English – Fluent
 - Tamil – Native
@@ -180,7 +180,7 @@ Example:
   </a>
 </p>
 
-📍 Chennai, Tamil Nadu, India
+Chennai, Tamil Nadu, India
 
 ---
 

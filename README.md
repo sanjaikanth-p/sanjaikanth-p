@@ -90,7 +90,7 @@ embedded systems, electronics, signal processing and research.
 | 06 | [Non-Contact PLL-Based Tachometer](https://github.com/sanjaikanth-p/pll-based-tachometer) | Analog tachometer prototype using XOR logic, 555 timer and operational amplifier circuitry. | Analog Electronics, 555 Timer |
 | 07 | [Low-Cost Spectrophotometer](https://github.com/sanjaikanth-p/low-cost-spectrophotometer) | Arduino-based optical measurement and spectrophotometer prototype. | Arduino, Sensors |
 | 08 | [Automatic Room Occupancy Counter](https://github.com/sanjaikanth-p/automatic-room-occupancy-counter) | Digital logic-based room occupancy counting system using integrated circuits. | Digital Electronics, ICs |
-
+| 09 | [Wireless Communication Analysis](https://github.com/sanjaikanth-p/rayleigh-rician-fading-analysis) | Performance analysis of wireless systems over Rayleigh and Rician fading channels. | MATLAB, Wireless Communication |
 
 ---
 
